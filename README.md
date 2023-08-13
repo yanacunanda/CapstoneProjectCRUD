@@ -1,7 +1,7 @@
 # README
 Please read this before you use this app.
 
-This is my first project as data science student at Purwadhika Digital and Technology School. This app is implemnting CRUD method (Create, Read, Update, Delete).
+This is my first project as data science student at Purwadhika Digital and Technology School. This app is implementing CRUD method (Create, Read, Update, Delete).
 
 This app using Python3 progamming language and this app using Bahasa Indonesia as interface language.
 
