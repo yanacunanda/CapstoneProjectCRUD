@@ -18,7 +18,7 @@ This app helps to manage your stock in warehouse. This app allows you to:
 4. Took current item stock
 5. Add new stock for the current item in the stock list
 
-##Features
+## Features
 
 ### 1. View Stock List
 In this menu you can look the stock list of the warehouse. The stock list consist of number, product name, product types, stock amount, and unit. The number will used as key in the app.
